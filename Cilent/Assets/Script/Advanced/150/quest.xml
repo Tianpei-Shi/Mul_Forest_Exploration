@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<quest>
+		<id>100</id>
+		<name>寻找小虎</name>
+		<des>小虎好像找不到了，麻烦找一个小虎吧</des>
+		<target>
+			<npc>小虎</npc>
+			<count>1</count>
+		</target>
+		<reward>
+			<moneny>100</moneny>
+			<exp>100</exp>
+		</reward>
+	</quest>
+	<quest>
+		<id>101</id>
+		<name>击杀敌人</name>
+		<des>击杀10个山贼</des>
+		<target>
+			<npc>山贼</npc>
+			<count>10</count>
+		</target>
+		<reward>
+			<moneny>300</moneny>
+			<exp>200</exp>
+		</reward>
+	</quest>
+</root>

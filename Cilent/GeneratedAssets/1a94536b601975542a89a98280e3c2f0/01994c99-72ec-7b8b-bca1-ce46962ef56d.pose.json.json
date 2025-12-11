@@ -1,0 +1,11 @@
+{
+    "asset": "1a94536b601975542a89a98280e3c2f0",
+    "fileName": "01994c99-72ec-7b8b-bca1-ce46962ef56d.pose.json",
+    "prompt": "一个角色人物半生穿透地面之后反弹站立在地面，并重复这个动作的动画",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 770781249,
+    "w3CTraceId": "3db072fa6564aecd0778a04ebcb2e94f",
+    "isTrimmed": false
+}

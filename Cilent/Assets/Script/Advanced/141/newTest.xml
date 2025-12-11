@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <items>
+    <item id="1">
+      <name>血瓶</name>
+      <des>这是一个小血瓶</des>
+	  <image>skill_icon_01</image>
+    </item>
+    <item id="2">
+      <name>木剑</name>
+      <des>这是一把木剑</des>
+	  <image>skill_icon_02</image>
+    </item>
+    <item id="3">
+      <name>飞镖</name>
+      <des>这是一把飞镖</des>
+	  <image>skill_icon_03</image>
+    </item>
+  </items>
+</root>

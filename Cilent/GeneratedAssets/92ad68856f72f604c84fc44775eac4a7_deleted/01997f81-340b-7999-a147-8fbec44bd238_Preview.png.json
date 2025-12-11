@@ -1,0 +1,11 @@
+{
+    "asset": "92ad68856f72f604c84fc44775eac4a7",
+    "fileName": "01997f81-340b-7999-a147-8fbec44bd238_Preview.png",
+    "prompt": "地砖模型",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1856790108,
+    "w3CTraceId": "4407efed510954c9110d68997a1a30c8",
+    "refinementMode": "Generation"
+}
